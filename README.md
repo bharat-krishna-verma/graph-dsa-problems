@@ -16,6 +16,8 @@ Each file is named after the problem it solves. Problem statements and source li
 |--------|------|--------|-------------|
 | BFS Traversal | `bfs_graph_gfg.java` | [GFG - BFS Traversal](https://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/) | Performs BFS traversal on an undirected graph starting from node 0 |
 | DFS Traversal | `dfs_graph_gfg.java` | [GFG - DFS Traversal](https://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/) | Performs DFS traversal on an undirected graph starting from node 0 |
+| Number of Provinces | `number_of_provinces.java` | [LeetCode 547](https://leetcode.com/problems/number-of-provinces/) | Uses DFS on the adjacency matrix to count the number of connected components (provinces) |
+
 
 
 ---
