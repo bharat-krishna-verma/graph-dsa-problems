@@ -18,6 +18,7 @@ Each file is named after the problem it solves. Problem statements and source li
 | DFS Traversal | `dfs_graph_gfg.java` | [GFG - DFS Traversal](https://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/) | Performs DFS traversal on an undirected graph starting from node 0 |
 | Number of Provinces | `number_of_provinces.java` | [LeetCode 547](https://leetcode.com/problems/number-of-provinces/) | Uses DFS on the adjacency matrix to count the number of connected components (provinces) |
 | Number of Islands (BFS) | `number_of_islands.java` | [LeetCode 200](https://leetcode.com/problems/number-of-islands/) | Uses BFS to count distinct islands in a 2D grid of water and land |
+| Flood Fill           | `flood_fill.java`           | [LeetCode 733](https://leetcode.com/problems/flood-fill/) | Implements flood fill algorithm to recolor a connected region in a 2D image starting from a given pixel (DFS/BFS) |
 
 
 
