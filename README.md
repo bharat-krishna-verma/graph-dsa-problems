@@ -15,6 +15,8 @@ Each file is named after the problem it solves. Problem statements and source li
 | Problem | File | Source | Description |
 |--------|------|--------|-------------|
 | BFS Traversal | `bfs_graph_gfg.java` | [GFG - BFS Traversal](https://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/) | Performs BFS traversal on an undirected graph starting from node 0 |
+| DFS Traversal | `dfs_graph_gfg.java` | [GFG - DFS Traversal](https://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/) | Performs DFS traversal on an undirected graph starting from node 0 |
+
 
 ---
 
