@@ -30,6 +30,7 @@ Problem statements and source links are included as comments inside the respecti
 | Course Schedule I | `course_schedule_I.java` | [LeetCode 207 - Course Schedule](https://leetcode.com/problems/course-schedule/) | Determines if all courses can be completed using cycle detection (Kahn’s BFS Topological Sort) |
 | Course Schedule II | `course_schedule_II.java` | [LeetCode 210 - Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Returns one possible order of course completion using Kahn’s BFS Topological Sort |
 | Bipartite Graph (DFS) | `bipartite_graph_dfs.java` | [GFG - Bipartite Graph](https://www.geeksforgeeks.org/bipartite-graph/) | Checks if a graph is bipartite using DFS graph coloring |
+| Bipartite Graph (BFS) | `bipartite_graph_bfs.java` | [LeetCode 785 - Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Checks if a graph is bipartite using BFS graph coloring |
 
 ---
 
