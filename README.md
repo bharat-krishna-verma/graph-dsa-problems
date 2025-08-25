@@ -31,6 +31,7 @@ Problem statements and source links are included as comments inside the respecti
 | Course Schedule II | `course_schedule_II.java` | [LeetCode 210 - Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Returns one possible order of course completion using Kahn’s BFS Topological Sort |
 | Bipartite Graph (DFS) | `bipartite_graph_dfs.java` | [GFG - Bipartite Graph](https://www.geeksforgeeks.org/bipartite-graph/) | Checks if a graph is bipartite using DFS graph coloring |
 | Bipartite Graph (BFS) | `bipartite_graph_bfs.java` | [LeetCode 785 - Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Checks if a graph is bipartite using BFS graph coloring |
+| Detecting Cycle (Undirected - DSU) | `detecting_cycle_using_dsu.java` | [GFG - Detect cycle using DSU](https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-graph-using-disjoint-set/) | Detects cycle in an undirected graph using Disjoint Set Union (Union-Find) |
 
 ---
 
