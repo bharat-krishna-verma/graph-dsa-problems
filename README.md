@@ -32,6 +32,8 @@ Problem statements and source links are included as comments inside the respecti
 | Bipartite Graph (DFS) | `bipartite_graph_dfs.java` | [GFG - Bipartite Graph](https://www.geeksforgeeks.org/bipartite-graph/) | Checks if a graph is bipartite using DFS graph coloring |
 | Bipartite Graph (BFS) | `bipartite_graph_bfs.java` | [LeetCode 785 - Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Checks if a graph is bipartite using BFS graph coloring |
 | Detecting Cycle (Undirected - DSU) | `detecting_cycle_using_dsu.java` | [GFG - Detect cycle using DSU](https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-graph-using-disjoint-set/) | Detects cycle in an undirected graph using Disjoint Set Union (Union-Find) |
+| Number of Operations to Make Network Connected | `number_of_operations_to_make_network_connected_dsu.java` | [LeetCode 1319 - Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Uses DSU to find minimum operations to connect all nodes in a network |
+| Satisfiability of Equality Equations | `satisfiability_of_equality_equations_dsu.java` | [LeetCode 990 - Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | Uses DSU to determine if a set of equality and inequality equations can be satisfied |
 
 ---
 
