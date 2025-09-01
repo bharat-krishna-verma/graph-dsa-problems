@@ -36,6 +36,7 @@ Problem statements and source links are included as comments inside the respecti
 | Satisfiability of Equality Equations | `satisfiability_of_equality_equations_dsu.java` | [LeetCode 990 - Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | Uses DSU to determine if a set of equality and inequality equations can be satisfied |
 | Count Unreachable Pairs in Undirected Graph | `count_unreachable_pairs.java`              | [LeetCode 2316 - Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Uses Disjoint Set Union (Union-Find) to count the number of unordered pairs of nodes that cannot reach each other |
 | Dijkstra’s Algorithm (Min-Heap) | `dijkstra_algo_heap.java` | [GFG - Dijkstra’s Algorithm using Priority Queue](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-using-priority_queue-stl/) | Finds shortest paths from a source node to all other nodes using a priority queue (min-heap) |
+ijkstra’s Algorithm (TreeSet) | `dijkstra_algo_set.java` | [GFG - Dijkstra’s Algorithm using Set](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-using-set-in-stl/) | Finds shortest paths from a source node to all other nodes using a balanced BST (TreeSet) |
 ---
 
 ## 🚀 How to Run
