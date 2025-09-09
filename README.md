@@ -37,6 +37,8 @@ Problem statements and source links are included as comments inside the respecti
 | Count Unreachable Pairs in Undirected Graph | `count_unreachable_pairs.java`              | [LeetCode 2316 - Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Uses Disjoint Set Union (Union-Find) to count the number of unordered pairs of nodes that cannot reach each other |
 | Dijkstra’s Algorithm (Min-Heap) | `dijkstra_algo_heap.java` | [GFG - Dijkstra’s Algorithm using Priority Queue](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-using-priority_queue-stl/) | Finds shortest paths from a source node to all other nodes using a priority queue (min-heap) |
 ijkstra’s Algorithm (TreeSet) | `dijkstra_algo_set.java` | [GFG - Dijkstra’s Algorithm using Set](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-using-set-in-stl/) | Finds shortest paths from a source node to all other nodes using a balanced BST (TreeSet) |
+| Network Delay Time | `network_delay_time.java` | [LeetCode 743 - Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Uses Dijkstra’s Algorithm to calculate the time it takes for a signal to reach all nodes in a directed weighted graph |
+
 ---
 
 ## 🚀 How to Run
