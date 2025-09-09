@@ -38,6 +38,8 @@ Problem statements and source links are included as comments inside the respecti
 | Dijkstra’s Algorithm (Min-Heap) | `dijkstra_algo_heap.java` | [GFG - Dijkstra’s Algorithm using Priority Queue](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-using-priority_queue-stl/) | Finds shortest paths from a source node to all other nodes using a priority queue (min-heap) |
 ijkstra’s Algorithm (TreeSet) | `dijkstra_algo_set.java` | [GFG - Dijkstra’s Algorithm using Set](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-using-set-in-stl/) | Finds shortest paths from a source node to all other nodes using a balanced BST (TreeSet) |
 | Network Delay Time | `network_delay_time.java` | [LeetCode 743 - Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Uses Dijkstra’s Algorithm to calculate the time it takes for a signal to reach all nodes in a directed weighted graph |
+| Shortest Path in Weighted Undirected Graph | `shortest_path_in_weighted_undirected_graph.java` | [GFG - Shortest Path in Weighted Undirected Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1) | Finds the shortest path from node 1 to node n in a weighted undirected graph and reconstructs the path |
+
 
 ---
 
