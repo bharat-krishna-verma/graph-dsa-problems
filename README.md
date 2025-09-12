@@ -44,6 +44,8 @@ ijkstra’s Algorithm (TreeSet) | `dijkstra_algo_set.java` | [GFG - Dijkstra’s
 | Bellman-Ford Algorithm | `bellman_ford.java` | [GFG - Bellman-Ford Algorithm](https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/) | Finds shortest paths from a source node to all other nodes, works with negative weights and detects negative cycles |
 | Floyd–Warshall Algorithm | `floyd_warshall.java` | [GFG - Floyd Warshall Algorithm](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/) | Computes shortest paths between all pairs of vertices in a weighted graph (handles negative weights but not negative cycles) |
 | Minimum Spanning Tree (Prim’s Algorithm) | `minimum_spanning_tree_prim.java` | [GFG - Minimum Spanning Tree](https://www.geeksforgeeks.org/minimum-spanning-tree-prims-algorithm-greedy-algo-5/) | Uses Prim’s Algorithm with a priority queue to compute the MST of a weighted undirected graph |
+| Min Cost to Connect All Points | `min_cost_connect_points.java` | [LeetCode 1584 - Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Uses Prim’s Algorithm with Manhattan distance to find the minimum cost to connect all points in a 2D plane |
+
 
 
 
