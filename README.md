@@ -43,6 +43,7 @@ ijkstra’s Algorithm (TreeSet) | `dijkstra_algo_set.java` | [GFG - Dijkstra’s
 | Path With Minimum Effort | `path_with_minimum_effort.java` | [LeetCode 1631 - Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Uses Dijkstra’s Algorithm to find a path from top-left to bottom-right such that the maximum absolute difference in heights between adjacent cells is minimized |
 | Bellman-Ford Algorithm | `bellman_ford.java` | [GFG - Bellman-Ford Algorithm](https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/) | Finds shortest paths from a source node to all other nodes, works with negative weights and detects negative cycles |
 | Floyd–Warshall Algorithm | `floyd_warshall.java` | [GFG - Floyd Warshall Algorithm](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/) | Computes shortest paths between all pairs of vertices in a weighted graph (handles negative weights but not negative cycles) |
+| Minimum Spanning Tree (Prim’s Algorithm) | `minimum_spanning_tree_prim.java` | [GFG - Minimum Spanning Tree](https://www.geeksforgeeks.org/minimum-spanning-tree-prims-algorithm-greedy-algo-5/) | Uses Prim’s Algorithm with a priority queue to compute the MST of a weighted undirected graph |
 
 
 
