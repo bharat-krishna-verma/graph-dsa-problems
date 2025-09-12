@@ -41,6 +41,7 @@ ijkstra’s Algorithm (TreeSet) | `dijkstra_algo_set.java` | [GFG - Dijkstra’s
 | Shortest Path in Weighted Undirected Graph | `shortest_path_in_weighted_undirected_graph.java` | [GFG - Shortest Path in Weighted Undirected Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1) | Finds the shortest path from node 1 to node n in a weighted undirected graph and reconstructs the path |
 | Shortest Path in Binary Matrix | `shortest_path_in_binary_matrix.java` | [LeetCode 1091 - Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Uses BFS to find the shortest path from the top-left to the bottom-right corner in a binary matrix |
 | Path With Minimum Effort | `path_with_minimum_effort.java` | [LeetCode 1631 - Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Uses Dijkstra’s Algorithm to find a path from top-left to bottom-right such that the maximum absolute difference in heights between adjacent cells is minimized |
+| Bellman-Ford Algorithm | `bellman_ford.java` | [GFG - Bellman-Ford Algorithm](https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/) | Finds shortest paths from a source node to all other nodes, works with negative weights and detects negative cycles |
 
 
 
